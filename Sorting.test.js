@@ -1,3 +1,12 @@
+/*Writing unit tests involves checking whether individual parts of a software application (units) 
+work as expected. In this case, you want to test a method that sorts odd numbers in an array 
+while keeping even numbers in their places.
+
+Solution:
+For this scenario, we can consider using the Mocha testing framework along with the Chai assertion library.
+Mocha is a flexible testing framework, and Chai provides multiple assertion styles to choose from. */
+
+
 const { expect } = require('chai');
 const { sortOddNumbers } = require('./sorting'); // Import the module with your sorting function
 
