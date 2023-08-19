@@ -1,5 +1,5 @@
 /*Writing unit tests involves checking whether individual parts of a software application (units) 
-work as expected. In this case, you want to test a method that sorts odd numbers in an array 
+work as expected. In this case, we want to test a method that sorts odd numbers in an array 
 while keeping even numbers in their places.
 
 Solution:
